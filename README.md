@@ -1,6 +1,17 @@
 # Rusty NFTs
 
-The frontend provides an interactive interface for users to upload images and apply various filters. It handles file uploads, WebAssembly initialization, filter application, and image download.
+
+## Project Overview:
+
+Rusty NFTs is a web-based (satirical) application that empowers users to transform their images into unique digital artworks by applying a variety of customizable filters. Leveraging the power of Rust and WebAssembly, this project offers near-native performance for complex image processing tasks, all within the browser.
+
+This application allows users to:
+
+   - Upload their images through a user-friendly interface.
+   - Apply a range of filters including Sepia, Emboss, Posterize, and more, directly in the browser.
+   - Download the transformed images as ready-to-mint NFTs!
+
+With a seamless integration of React for the frontend and Rust for the backend processing, Rusty NFTs provides an efficient and engaging way to create and experiment with filters and digital images. 
 
 ## Welcome to Rusty NFTs!
 ![Welcome to Rusty Filters](./rusty_nfts_react/src/assets/screenshots/welcome.png)
